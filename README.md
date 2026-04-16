@@ -5,7 +5,7 @@ This project is a Spring Boot API for managing tasks, and it allows users to cre
 ## How to Run Application
 1. Clone the repository
 2. Navigate to the project folder
-3. Run: mvnw spring-boot:run
+3. Right click `CampusTaskboardApplication.java` and run the file
 4. Open: http://localhost:8080
 
 ## Endpoints
